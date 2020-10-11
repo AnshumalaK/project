@@ -11,6 +11,6 @@ def factorial(n):
         return fact 
   
 # Driver Code 
-num = 5; 
+num = 10; 
 print("Factorial of",num,"is", 
 factorial(num)) 
